@@ -37,9 +37,9 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vic
 
 ### *Projects*  
 **The Reason is Because...**  
-[https://www.thereasonisbecause.com](https://www.thereasonisbecause.com)  
+[thereasonisbecause.com](https://www.thereasonisbecause.com)  
 A RESTful Express.js app using Handlebars, Boostrap CSS, and the very cool Theater.js plug-in. Makes a grammatical case against English sentences of the form "the reason is because...".
 
 **Personal API**  
-[https://joefraley.com](https://www.joefraley.com)  
+[joefraley.com](https://www.joefraley.com)  
 An Express.js app running tons of RESTful API's and WebSockets. It acts as a personal dashboard, so that people can easily find me around town, and have something to talk about.
