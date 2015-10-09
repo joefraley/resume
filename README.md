@@ -4,7 +4,7 @@
 [joefraley.github.io](https://joefraley.github.io)  
 [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
 [https://www.linkedin.com/pub/joseph-fraley/b9/232/968](https://www.linkedin.com/pub/joseph-fraley/b9/232/968)  
-[+1-(503)-367-1627](tel:15033671627)
+[+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### *Technical*  
 JavaScript  
