@@ -44,6 +44,6 @@ A RESTful Express.js app using Handlebars, Boostrap CSS, and the very cool Theat
 [joefraley.com](https://www.joefraley.com)  
 An Express.js app running tons of RESTful API's and WebSockets. It acts as a personal dashboard, so that people can easily find me around town, and have something to talk about.
 
-### *Talks*
-**Intro to Jade**
+### *Talks*  
+**Intro to Jade**  
 [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/) *September 2015*
