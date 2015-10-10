@@ -28,11 +28,11 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 **Certificate of Success** *2015*  
 *Full-stack JavaScript*. Portland Code School.
 
-**MA of Philosophy** *2012-2014*  
+**MA, Philosophy** *2012-2014*  
 Emphasis in metaphysics, philosophy of language, & ethics. University of Colorado, Boulder.  
 *Vagueness & Fundamentality* - 2014
 
-**BA of Philosophy** *2009-2011*  
+**BA, Philosophy** *2009-2011*  
 Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vice President of Philosophy Club, 2010-2011.   Western Washington University.
 
 ### *Projects*  
