@@ -37,7 +37,7 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vic
 
 ### *Projects*  
 **The Reason is Because...**  
-[thereasonisbecause.com](https://www.thereasonisbecause.com)  
+[thereasonisbecause.com](https://www.thereasonbecause.com)  
 A RESTful Express.js app using Handlebars, Boostrap CSS, and the very cool Theater.js plug-in. Makes a grammatical case against English sentences of the form "the reason is because...".
 
 **Personal API**  
