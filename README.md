@@ -47,3 +47,5 @@ An Express.js app running tons of RESTful API's and WebSockets. It acts as a per
 ### *Talks*  
 **Intro to Jade**  
 [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/) *September 2015*
+**What is Vagueness?**  
+[WWU Undergraduate Philosophy Conference]() *April 2013*
