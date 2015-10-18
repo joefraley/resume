@@ -10,6 +10,7 @@
 JavaScript  
 jQuery  
 Node.js  
+Testing  
 Git / GitHub  
 SQL / NoSQL  
 Backbone.js  
