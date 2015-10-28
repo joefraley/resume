@@ -1,48 +1,73 @@
 # Joseph Fraley  
 ##### Developer & Philosopher
 
-[joefraley.github.io](https://joefraley.github.io)  
-[jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
-[https://www.linkedin.com/pub/joseph-fraley/b9/232/968](https://www.linkedin.com/pub/joseph-fraley/b9/232/968)  
-[+1-(503)-367-1627](tel:+1-503-367-1627)
+Portfolio: [joefraley.github.io](https://joefraley.github.io)  
+GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)  
+Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)  
+Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
-### *Technical*  
-JavaScript  
+### *Technical* JavaScript
+#### Client-Side Frameworks
 jQuery  
-Node.js  
-Git / GitHub  
-SQL / NoSQL  
+Lodash  
+Bootstrap  
+Handlebars  
+Jade   
+#### MVC  
 Backbone.js  
-CSS3  
+#### Server-side Frameworks  
+Express.js  
+Request  
+#### Testing Frameworks  
+Mocha.js  
+Chai  
+#### Databases
+PostgreSQL  
+Orchestrate  
+#### Version Control  
+Git / GitHub
 
 ### *Experience*  
-**PopSockets** *Lead Developer* **May 2015 - August 2015**  
+[**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer* **October 2015 - December 2015**  
+Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git nightmares. Contributed throughout the stack, especially in MVC environment.
+
+[**PopSockets**](https://www.popsockets.com) *Lead Developer* **May 2015 - August 2015**  
 Developed Shopify storefront for PopSockets. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Emphasized modern web standards like Flexbox.  
 **Technical Environment** Shopify eCommerce Platform, Liquid Templating Language, Bootstrap framework, JavaScript / jQuery
 
-**NorthWest Veg** *Assistant Developer* **May 2015 - August 2015**  
-Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution.  
+[**NorthWest Veg**](https://www.nwveg.com) *Assistant Developer* **May 2015 - August 2015**  
+Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
 ### *Education*  
-**Certificate of Success** *2015*  
-*Full-stack JavaScript*. Portland Code School.
+*2015*  
+*Full-Stack JavaScript*. Portland Code School.
+
+*2015*
+*Full-Stack JavaScript*. Treehouse.com  
+[https://teamtreehouse.com/joefraley](https://teamtreehouse.com/joefraley)
 
 **MA, Philosophy** *2012-2014*  
 Emphasis in metaphysics, philosophy of language, & ethics. University of Colorado, Boulder.  
-*Vagueness & Fundamentality* - 2014
+Thesis: *Vagueness & Fundamentality* - 2014
 
 **BA, Philosophy** *2009-2011*  
 Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vice President of Philosophy Club, 2010-2011.   Western Washington University.
 
 ### *Projects*  
-**The Reason Because...**  
-[thereasonbecause.com](https://www.thereasonbecause.com)  
-A RESTful Express.js app using Handlebars, Boostrap CSS, and the very cool Theater.js plug-in. Makes a grammatical case against English sentences of the form "the reason is because...".
+**Fetch!**
+[]()
+A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, Handlebars, and a number of interesting Node modules and client tools.
 
-**Personal API**  
-[joefraley.com](https://www.joefraley.com)  
-An Express.js app running tons of RESTful API's and WebSockets. It acts as a personal dashboard, so that people can easily find me around town, and have something to talk about.
+### *Volunteer*  
+**PDXCode Community Event Coordinator**  
+[]()  
+*October 2015 - November 2015*
+
+**Speaker Rep & Volunteer Coordinator**  
+[PyDX Python Conference]()  
+*October 2015*
 
 ### *Talks*  
 **Intro to Jade**  
@@ -50,3 +75,4 @@ An Express.js app running tons of RESTful API's and WebSockets. It acts as a per
 
 **What is Vagueness?**  
 [WWU Undergraduate Philosophy Conference]() *April 2013*
+
