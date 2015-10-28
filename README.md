@@ -41,7 +41,6 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
 ### *Education*  
-<<<<<<< HEAD
 *2015*  
 *Full-Stack JavaScript*. Portland Code School.
 
@@ -62,7 +61,6 @@ Western Washington University.
 []()
 A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, Handlebars, and a number of interesting Node modules and client tools.
 
-<<<<<<< HEAD
 ### *Volunteer*  
 **PDXCode Community Event Coordinator**  
 []()  
