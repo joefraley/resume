@@ -1,3 +1,5 @@
+Visit joefraley.github.com/resume for HTML
+
 # Joseph Fraley  
 ##### Developer & Philosopher
 
@@ -20,15 +22,18 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 |Chai                  |Orchestrate           |                    |
 
 ### *Experience*  
-[**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer* **October 2015 - December 2015**  
+[**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer*  
+**October 2015 - December 2015**  
 Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git nightmares. Contributed throughout the stack, especially in MVC environment.  
 **Technical Environment** Node, Express, Backbone, Handlebars, Orchestrate, Google Maps, Git
 
-[**PopSockets**](https://www.popsockets.com) *Lead Developer* **May 2015 - August 2015**  
+[**PopSockets**](https://www.popsockets.com) *Lead Developer*  
+**May 2015 - August 2015**  
 Developed Shopify storefront for PopSockets. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Emphasized modern web standards like Flexbox.  
 **Technical Environment** Shopify eCommerce Platform, Liquid Templating Language, Bootstrap framework, JavaScript / jQuery
 
-[**NorthWest Veg**](https://www.nwveg.com) *Assistant Developer* **May 2015 - August 2015**  
+[**NorthWest Veg**](https://www.nwveg.com) *Assistant Developer*  
+**May 2015 - August 2015**  
 Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
@@ -64,7 +69,8 @@ A single-page web application for tracking your lost pets, by crowd-sourcing com
 
 ### *Presentations*  
 **Intro to Jade**  
-[Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)   *September 2015*  
+[Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)  
+*September 2015*  
 
 **What is Vagueness?**  
 [WWU Undergraduate Philosophy Conference]()  
