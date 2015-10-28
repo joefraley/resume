@@ -44,11 +44,11 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
 ### *Education*  
-*2015*  
-*Full-Stack JavaScript*. Portland Code School.
+**Full-Stack JavaScript** *2015*   
+Portland Code School.
 
-*2015*
-*Full-Stack JavaScript*. Treehouse.com  
+**Full-Stack JavaScript** *2015*  
+Treehouse.com  
 [https://teamtreehouse.com/joefraley](https://teamtreehouse.com/joefraley)
 
 **MA, Philosophy** *2012-2014*  
