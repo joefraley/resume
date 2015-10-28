@@ -15,9 +15,9 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 |Node                  |jQuery                |Backbone.js         |
 |Request               |Lodash                |                    |
 |                      |BootStrap             |                    |
-|                      |HandleBars            |                    |
+|                      |Handlebars            |                    |
 |                      |Jade                  |                    |
-|**Testing Frameworks**|**Databases**         |**Version Control** |
+|**Testing Frameworks**|     **Databases**    |**Version Control** |
 |Mocha                 |PostgreSQL            |Git/GitHub          |
 |Chai                  |Orchestrate           |                    |
 
