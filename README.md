@@ -48,7 +48,7 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 Portland Code School.
 
 **Full-Stack JavaScript** *2015*  
-[https://teamtreehouse.com/joefraley](https://teamtreehouse.com/joefraley)
+[https://teamtreehouse.com/joefraley](https://teamtreehouse.com/joefraley)  
 Treehouse Online Code School.
 
 **MA, Philosophy** *2012-2014*  
