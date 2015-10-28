@@ -48,11 +48,12 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 Portland Code School.
 
 **Full-Stack JavaScript** *2015*  
-Treehouse.com  
 [https://teamtreehouse.com/joefraley](https://teamtreehouse.com/joefraley)
+Treehouse Online Code School.
 
 **MA, Philosophy** *2012-2014*  
-Emphasis in metaphysics, philosophy of language, & ethics. University of Colorado, Boulder.  
+Emphasis in metaphysics, philosophy of language, & ethics.  
+University of Colorado, Boulder.  
 Thesis: *Vagueness & Fundamentality* - 2014
 
 **BA, Philosophy** *2009-2011*  
