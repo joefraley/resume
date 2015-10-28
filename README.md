@@ -8,7 +8,8 @@ LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/jo
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### *Technical*  
-#### JavaScript  
+**Languages**  
+JavaScript  
 **Client-Side Frameworks**  
 jQuery  
 Lodash  
@@ -31,14 +32,15 @@ Git / GitHub
 
 ### *Experience*  
 [**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer* **October 2015 - December 2015**  
-Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git nightmares. Contributed throughout the stack, especially in MVC environment.
+Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git nightmares. Contributed throughout the stack, especially in MVC environment.  
+**Technical Environment** Node, Express, Backbone, Handlebars, Orchestrate, Google Maps, Git
 
 [**PopSockets**](https://www.popsockets.com) *Lead Developer* **May 2015 - August 2015**  
 Developed Shopify storefront for PopSockets. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Emphasized modern web standards like Flexbox.  
 **Technical Environment** Shopify eCommerce Platform, Liquid Templating Language, Bootstrap framework, JavaScript / jQuery
 
 [**NorthWest Veg**](https://www.nwveg.com) *Assistant Developer* **May 2015 - August 2015**  
-Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.
+Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
 ### *Education*  
