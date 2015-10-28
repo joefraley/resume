@@ -61,13 +61,12 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vic
 Western Washington University.
 
 ### *Projects*  
-**Fetch!**
-[]()
+[**Fetch!**]()  
 A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, Handlebars, and a number of interesting Node modules and client tools.
 
 ### *Volunteer*  
 **PDXCode Community Event Coordinator**  
-[]()
+[PDXCode.community](https://www.PDXCode.community)  
 *October 2015 - November 2015*
 
 **Speaker Rep & Volunteer Coordinator**  
