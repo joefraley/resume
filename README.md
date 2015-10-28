@@ -8,17 +8,16 @@ LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/jo
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### *Technical Skills*  
-|MVC        |Client-Side Frameworks|Server-Side Frameworks|
-|-----------|:---------------------|:---------------------|
-|Backbone.js|jQuery                |Node                  |
-|           |Lodash                |Request               |
-|           |BootStrap             |                      |
-|           |HandleBars            |                      |
-|           |Jade                  |                      |
-
-Testing Frameworks|Databases |Version Control|
-|-----------------|:---------|:--------------|
-|Mocha            |PostgreSQL|Git/GitHub     |
+|Client-Side Frameworks|Server-Side Frameworks|MVC                 |
+|----------------------|:---------------------|:-------------------|
+|Node                  |jQuery                |Backbone.js         |
+|Request               |Lodash                |                    |
+|                      |BootStrap             |                    |
+|                      |HandleBars            |                    |
+|                      |Jade                  |                    |
+|**Testing Frameworks**|**Databases**         |**Version Control** |
+|Mocha                 |PostgreSQL            |Git/GitHub          |
+|Chai                  |Orchestrate           |                    |
 
 ### *Experience*  
 [**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer* **October 2015 - December 2015**  
