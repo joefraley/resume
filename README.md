@@ -7,7 +7,8 @@ Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)  
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
-### *Technical* JavaScript
+### *Technical*  
+#### JavaScript  
 **Client-Side Frameworks**  
 jQuery  
 Lodash  
