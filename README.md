@@ -73,7 +73,7 @@ A single-page web application for tracking your lost pets, by crowd-sourcing com
 [PyDX Python Conference]()  
 *October 2015*
 
-### *Talks*  
+### *Presentations*  
 **Intro to Jade**  
 [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)   *September 2015*  
 
