@@ -66,7 +66,7 @@ A single-page web application for tracking your lost pets, by crowd-sourcing com
 
 ### *Volunteer*  
 **PDXCode Community Event Coordinator**  
-[]()  
+[]()
 *October 2015 - November 2015*
 
 **Speaker Rep & Volunteer Coordinator**  
