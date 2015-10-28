@@ -8,24 +8,24 @@ LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/jo
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### *Technical* JavaScript
-#### Client-Side Frameworks
+**Client-Side Frameworks**  
 jQuery  
 Lodash  
 Bootstrap  
 Handlebars  
 Jade   
-#### MVC  
+**MVC**  
 Backbone.js  
-#### Server-side Frameworks  
+**Server-side Frameworks**  
 Express.js  
 Request  
-#### Testing Frameworks  
+**Testing Frameworks**  
 Mocha.js  
 Chai  
-#### Databases
+**Databases**  
 PostgreSQL  
 Orchestrate  
-#### Version Control  
+**Version Control**  
 Git / GitHub
 
 ### *Experience*  
