@@ -1,4 +1,4 @@
-Visit joefraley.github.com/resume for HTML
+Visit joefraley.github.io/resume for HTML
 
 # Joseph Fraley  
 ##### Developer & Philosopher
