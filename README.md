@@ -41,6 +41,7 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
 
 ### *Education*  
+<<<<<<< HEAD
 *2015*  
 *Full-Stack JavaScript*. Portland Code School.
 
@@ -53,13 +54,15 @@ Emphasis in metaphysics, philosophy of language, & ethics. University of Colorad
 Thesis: *Vagueness & Fundamentality* - 2014
 
 **BA, Philosophy** *2009-2011*  
-Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vice President of Philosophy Club, 2010-2011.   Western Washington University.
+Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vice President of Philosophy Club, 2010-2011.  
+Western Washington University.
 
 ### *Projects*  
 **Fetch!**
 []()
 A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, Handlebars, and a number of interesting Node modules and client tools.
 
+<<<<<<< HEAD
 ### *Volunteer*  
 **PDXCode Community Event Coordinator**  
 []()  
@@ -71,8 +74,8 @@ A single-page web application for tracking your lost pets, by crowd-sourcing com
 
 ### *Talks*  
 **Intro to Jade**  
-[Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/) *September 2015*  
+[Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)   *September 2015*  
 
 **What is Vagueness?**  
-[WWU Undergraduate Philosophy Conference]() *April 2013*
-
+[WWU Undergraduate Philosophy Conference]()  
+*April 2013*
