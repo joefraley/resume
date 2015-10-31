@@ -1,4 +1,4 @@
-Visit joefraley.github.io/resume for HTML
+Visit [joefraley.github.io/resume](joefraley.github.io/resume) for HTML
 
 # Joseph Fraley  
 ##### Developer & Philosopher
@@ -24,7 +24,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 ### *Experience*  
 [**Portland Code School Project Team**](https://pcsteamproject.wordpress.com) *Project Manager & Developer*  
 **October 2015 - December 2015**  
-Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git nightmares. Contributed throughout the stack, especially in MVC environment.  
+Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git-related challenges. Contributed throughout the stack, especially in MVC environment.  
 **Technical Environment** Node, Express, Backbone, Handlebars, Orchestrate, Google Maps, Git
 
 [**PopSockets**](https://www.popsockets.com) *Lead Developer*  
@@ -36,6 +36,10 @@ Developed Shopify storefront for PopSockets. Built templates & responsive client
 **May 2015 - August 2015**  
 Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
 **Technical Environment** Custom templating language, CSS3 / HTML5, Git
+
+**University of Colorado, Boulder** *Instructor*  
+**August 2013 - May 2014**  
+
 
 ### *Education*  
 **Full-Stack JavaScript** *2015*   
@@ -55,8 +59,8 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vic
 Western Washington University.
 
 ### *Projects*  
-[**Fetch!**]()  
-A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, Handlebars, and a number of interesting Node modules and client tools.
+[**Fetch!**](https://www.example.com)  
+A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, and a number of Node modules and client tools for image manipulation.
 
 ### *Volunteer*  
 **PDXCode Community Event Coordinator**  
