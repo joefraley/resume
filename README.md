@@ -31,7 +31,7 @@ Developed Shopify storefront for PopSockets. Built templates & responsive client
 
 **Assistant Developer** | [**NorthWest Veg**](https://www.nwveg.com)   
 *May 2015 - August 2015*  
-Took over various small projects for lead developer Eric Day. Implemented complete restrcture of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
+Took over various small projects for lead developer Eric Day. Implemented complete restructure of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
 **Technical Environment**: Custom templating language, CSS3 / HTML5, Git
 
 **Instructor** | **University of Colorado, Boulder**   
