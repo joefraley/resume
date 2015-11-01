@@ -7,16 +7,16 @@ Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)  
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)  
 ##### *Technical Skills*  
-|Server-Side Frameworks   |Client-Side Frameworks|MVC                       |
-|-------------------------|:---------------------|:-------------------------|
-|Node                     |jQuery                |Backbone.js               |
-|Request                  |Lodash                |                          |
-|                         |BootStrap             |                          |
-|                                              |Handlebars                       |                                      |
-|                                              |Jade                                   |                                      |
-|**Testing Frameworks**|     **Databases**            |**Version Control** |
-|Mocha                                  |PostgreSQL                      |Git/GitHub                  |
-|Chai                                      |Orchestrate                      |                                      |
+| Server-Side Frameworks  |Client-Side Frameworks|           MVC           |
+|-------------------------|:---------------------|:------------------------|
+|Node                     |jQuery                |Backbone.js              |
+|Request                  |Lodash                |                         |
+|                         |BootStrap             |                         |
+|                         |Handlebars, Jade      |                         |
+|  **Testing Frameworks** |     **Databases**    |   **Version Control**   |
+|Mocha                    |PostgreSQL            |Git/GitHub               |
+|Chai                     |Orchestrate           |                         |
+|-------------------------|----------------------|-------------------------|
 
 ##### *Experience*  
 **Project Manager & Developer** | [**Portland Code School Project Team**](https://pcsteamproject.wordpress.com)   
@@ -38,7 +38,7 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 *August 2013 - May 2014*  
 
 ##### *Projects*  
-[**Fetch!**](https://www.example.com)  
+[**Fetch!**](https://github.com/PCS-Capstone/project/tree/workingMaster)  
 A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, and a number of Node modules and client tools for image manipulation.   
 
 ##### *Education*   
