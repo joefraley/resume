@@ -1,6 +1,6 @@
 #### Joseph Fraley 
 ##### Developer & Philosopher  
-Visit [joefraley.github.io/resume](joefraley.github.io/resume) for HTML version  
+Visit [joefraley.github.io/resume](https://joefraley.github.io/resume) for HTML version  
 Portfolio: [joefraley.github.io](https://joefraley.github.io)  
 GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)  
 Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
