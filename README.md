@@ -1,5 +1,5 @@
 #### Joseph Fraley 
-##### Developer & Philosopher  
+##### Full-Stack Developer & Philosopher  
 Visit [joefraley.github.io/resume](https://joefraley.github.io/resume) for HTML version  
 Portfolio: [joefraley.github.io](https://joefraley.github.io)  
 GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)  
