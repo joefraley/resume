@@ -48,7 +48,6 @@ Link: https://www.fetch.love
 Portland Code School  
 **Full-Stack JavaScript** *2015*  
 [Treehouse Online Code School](https://teamtreehouse.com/joefraley)  
-Link: https://teamtreehouse.com/joefraley  
 **MA, Philosophy** *2012-2014*  
 University of Colorado, Boulder  
 Emphasis in metaphysics, philosophy of language, & ethics.  
