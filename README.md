@@ -16,10 +16,11 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 |  **Testing Frameworks** |     **Databases**    |   **Version Control**   |
 |Mocha                    |PostgreSQL            |Git/GitHub               |
 |Chai                     |Orchestrate           |                         |
+|Sinon                    |                      |                         |
 |-------------------------|----------------------|-------------------------|
 
 ##### *Experience*  
-**Project Manager & Developer** | [**Portland Code School Project Team**](https://pcsteamproject.wordpress.com)   
+**Project Manager & Developer** | [**Portland Code School Project Team**](https://www.fetch.love)   
 *October 2015 - December 2015*  
 Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git-related challenges. Contributed throughout the stack, especially in MVC environment.  
 **Technical Environment**: Node, Express, Backbone, Handlebars, Orchestrate, Google Maps, Git
@@ -38,14 +39,16 @@ Took over various small projects for lead developer Eric Day. Implemented comple
 *August 2013 - May 2014*  
 
 ##### *Projects*  
-[**Fetch!**](https://github.com/PCS-Capstone/project/tree/workingMaster)  
-A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, and a number of Node modules and client tools for image manipulation.   
+[**Fetch!**](https://www.fetch.love)  
+A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Makes interesting use of the Google Maps JavaScript API, and a number of Node modules and client tools for image manipulation.  
+Link: https://www.fetch.love   
 
 ##### *Education*   
 **Full-Stack JavaScript** *2015*   
 Portland Code School  
 **Full-Stack JavaScript** *2015*  
 [Treehouse Online Code School](https://teamtreehouse.com/joefraley)  
+Link: https://teamtreehouse.com/joefraley  
 **MA, Philosophy** *2012-2014*  
 University of Colorado, Boulder  
 Emphasis in metaphysics, philosophy of language, & ethics.  
