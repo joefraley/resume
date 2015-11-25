@@ -10,16 +10,17 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 | Server-Side Frameworks  |Client-Side Frameworks|           MVC           |
 |-------------------------|:---------------------|:------------------------|
 |Node                     |jQuery                |Backbone.js              |
-|Request                  |Lodash                |                         |
+|npm                      |Lodash                |React                    |
 |                         |BootStrap             |                         |
-|                         |Handlebars, Jade      |                         |
+|                         |Handlebars            |                         |
+|                         |Jade                  |                         |
 |  **Testing Frameworks** |     **Databases**    |   **Version Control**   |
-|Mocha                    |PostgreSQL            |Git/GitHub               |
-|Chai                     |Orchestrate           |                         |
+|Mocha                    |Orchestrate           |Git                      |
+|Chai                     |NoSQL                 |GitHub                   |
 |Sinon                    |                      |                         |
-|-------------------------|----------------------|-------------------------|
+|Jasmine                  |                      |                         |
 
-##### *Experience*  
+##### *Professional Experience*  
 **Project Manager & Developer** | [**Portland Code School Project Team**](https://www.fetch.love)   
 *October 2015 - December 2015*  
 Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git-related challenges. Contributed throughout the stack, especially in MVC environment.  
@@ -27,16 +28,17 @@ Led an agile team of 3 junior developers, from inception to deployment, over a 5
 
  **Lead Developer** | [**PopSockets**](https://www.popsockets.com)  
 *May 2015 - August 2015*  
-Developed Shopify storefront for PopSockets. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Emphasized modern web standards like Flexbox.  
+Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Emphasized modern web standards like Flexbox.  
 **Technical Environment**: Shopify eCommerce Platform, Liquid Templating Language, Bootstrap, JavaScript , jQuery
 
 **Assistant Developer** | [**NorthWest Veg**](https://www.nwveg.com)   
 *May 2015 - August 2015*  
-Took over various small projects for lead developer Eric Day. Implemented complete restructure of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
+Took over various small projects for lead developer at Portland non-profit devoted to making cruelty-free diets easier. Implemented complete restructure of legacy HTML - from table-based markup to semantic solution. Designed a reusable tool for quickly making dramatic changes to the layout.  
 **Technical Environment**: Custom templating language, CSS3 / HTML5, Git
 
 **Instructor** | **University of Colorado, Boulder**   
 *August 2013 - May 2014*  
+Developed supplementary curriculum for intro philosophy courses of more than 100 students. Provided instruction and test prep for courses in metaphysics, ethics, history of philosophy, philosophy of science fiction, critical thinking, logic, writing, and others.
 
 ##### *Projects*  
 [**Fetch!**](https://www.fetch.love)  
@@ -54,7 +56,7 @@ Emphasis in metaphysics, philosophy of language, & ethics.
 Thesis: *Vagueness & Fundamentality*, 2014  
 **BA, Philosophy** *2009-2011*  
 Western Washington University  
-Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vice President of Philosophy Club, 2010-2011.  
+Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vice President of Philosophy Club, 2010-2011.  
 
 ##### *Volunteer*  
 **General Volunteer** | [Mozilla ViewSource Conference](https://viewsourceconf.org/)  
@@ -66,5 +68,7 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011. Vic
 ##### *Presentations*  
 **Intro to Jade** | [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)  
 *September 2015*  
+A presentation on the Jade templating library. Covered its merits, common pitfalls, and a live demonstration of the technology. Hack + Help was a regular meet-up and safe space for code newcomers to explore new tools and get support from Portland’s tech community.
 **What is Vagueness?** | [WWU Undergraduate Philosophy Conference]()  
-*April 2013*
+*April 2013*  
+A presentation and overview of the current philosophical literature on vagueness. Made a case for a novel new theory about vagueness and fundamentality. The Undergraduate Philosophy Conference at Western Washington University is among the most prestigious west-coast conferences for young philosophers.
