@@ -68,7 +68,7 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vi
 ##### *Presentations*  
 **Intro to Jade** | [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)  
 *September 2015*  
-A presentation on the Jade templating library. Covered its merits, common pitfalls, and a live demonstration of the technology. Hack + Help was a regular meet-up and safe space for code newcomers to explore new tools and get support from Portland’s tech community.
+A presentation on the Jade templating library. Covered its merits, common pitfalls, and a live demonstration of the technology. Hack + Help was a regular meet-up and safe space for code newcomers to explore new tools and get support from Portland’s tech community.  
 **What is Vagueness?** | [WWU Undergraduate Philosophy Conference]()  
 *April 2013*  
 A presentation and overview of the current philosophical literature on vagueness. Made a case for a novel new theory about vagueness and fundamentality. The Undergraduate Philosophy Conference at Western Washington University is among the most prestigious west-coast conferences for young philosophers.
