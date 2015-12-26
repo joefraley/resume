@@ -21,7 +21,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 |Jasmine                  |                      |                         |
 
 ##### *Professional Experience*  
-**Mentor** | [**Treehouse.inc**](https://teamtreehouse.com/)  
+**Mentor** | [**Team Treehouse**](https://teamtreehouse.com/)  
 *December 2015 - Present*  
 Provide code-review and professional mentorship for students. This means helping new developers to grow into their problem-solving and research skills, as well as encouraging modern best-practices. It also means being supportive, encouraging, and empathetic, and fostering a perpetual beginner's mindset.  
 Contribute to the ongoing development of the program, from technical debugging to curriculum development and mentor standards.  
