@@ -21,7 +21,20 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 |Jasmine                  |                      |                         |
 
 ##### *Professional Experience*  
-**Project Manager & Developer** | [**Portland Code School Project Team**](https://www.fetch.love)   
+**Mentor** | [**Treehouse.inc**](https://teamtreehouse.com/)  
+*December 2015 - Present*  
+Provide code-review and professional mentorship for students. This means helping new developers to grow into their problem-solving and research skills, as well as encouraging modern best-practices. It also means being supportive, encouraging, and empathetic, and fostering a perpetual beginner's mindset.  
+Contribute to the ongoing development of the program, from technical debugging to curriculum development and mentor standards.  
+**Technical Environment**: HTML, CSS, JavaScript, jQuery, Sass, Git / GitHub, SVG, Markdown
+
+**Teaching Assistant** | [**Code Fellows**](https://www.codefellows.org/courses/code-301/intermediate-software-development)  
+*December 2015*  
+Provided code-review, instruction, and personal feedback to students in the Code 301 course. The class lasts three-weeks, meeting at least eight-hours a day, five days a week. Its curriculum covers MVC, responsive and mobile first design paradigms, SQL, single-page application development, services and APIs, algorithms, functional programming, AJAX, and version control systems.
+
+This required empathy and the ability to understand how different people require unique approaches to constructive criticism and support. Encouraged students to talk about code and high-level concepts in conversational English, and embrace the ever-changing nature of the web.  
+**Technical Environment**: HTML, CSS, JavaScript, Handlebars, jQuery, Git/ Github, AJAX, MVC, SQL
+
+**Project Manager & Developer** | [**Portland Code School Project Team**](https://www.fetch.love)  
 *October 2015 - December 2015*  
 Led an agile team of 3 junior developers, from inception to deployment, over a 5 week sprint. Brought out the best in my talented team members, despite our school closing, an early dead-end, and various Git-related challenges. Contributed throughout the stack, especially in MVC environment.  
 **Technical Environment**: Node, Express, Backbone, Handlebars, Orchestrate, Google Maps, Git
@@ -69,6 +82,3 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vi
 **Intro to Jade** | [Hack + Help](http://www.meetup.com/Portland-Code-School-Learning-and-Development-Group/events/225214851/)  
 *September 2015*  
 A presentation on the Jade templating library. Covered its merits, common pitfalls, and a live demonstration of the technology. Hack + Help was a regular meet-up and safe space for code newcomers to explore new tools and get support from Portland’s tech community.  
-**What is Vagueness?** | [WWU Undergraduate Philosophy Conference]()  
-*April 2013*  
-A presentation and overview of the current philosophical literature on vagueness. Made a case for a novel new theory about vagueness and fundamentality. The Undergraduate Philosophy Conference at Western Washington University is among the most prestigious west-coast conferences for young philosophers.
