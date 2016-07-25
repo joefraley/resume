@@ -91,7 +91,7 @@ General JavaScript & architecture consultation.
 
 General design implementation, markup. Built mobile-frist / responsive pages, integrated with remote payment service.  
 
-For example: XRAY membership page (http://xray.fm/membership).  
+For example: the [XRAY membership page](http://xray.fm/membership)  
 
     Technical Environment: CSS3 / HTML5, Custom CMS
 
