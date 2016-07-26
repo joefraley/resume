@@ -40,7 +40,7 @@ Major retooling of legacy build-process using Webpack.
 
 Wrote and contributed back to open source projects like:  
 
-[**React Styleguide Generator**](https://github.com/pocotan001/react-styleguide-generator), Zurb: Responsive Email Template Boilerplate  
+[**React Styleguide Generator**](https://github.com/pocotan001/react-styleguide-generator), [**Zurb: Responsive Email Template Boilerplate**](https://github.com/joefraley/responsive-email-template-boilerplate)  
 
     Technical Environment: JavaScript, React, Python, Node, Git, HTML, Sass, Mocha, Google Analytics  
     Team Environment: Slack, Trello, Stash, Jira, Bamboo  
