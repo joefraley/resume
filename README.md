@@ -121,6 +121,11 @@ Western Washington University
 Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vice President of Philosophy Club, 2010-2011.  
 
 ### *Presentations*  
+**Prototyping with React and Firebase** | [Portland ReactJS](http://www.meetup.com/Portland-ReactJS/events/233069449/)  
+*August 2016*  
+Prototyping with React can be daunting when it comes with setting up Redux flows and editing Webpack config files.  
+With the new Firebase API, you can skip all of that for dependable, scalable prototypes that are easy to use and understand.
+
 **How to Get Started with Elm** | [Portland Elm Group](https://www.meetup.com/portlandelm/events/228818726/)  
 *April 2016*  
 An introduction to some fun Elm tools and open source Elm projects seeking participants.  
