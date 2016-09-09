@@ -7,27 +7,6 @@ Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)  
 Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)  
 
-
-### *Strong Technical Skills*  
-|    **Server/Backend Technologies**    |  **Client/Front-end Technologies**             |    **Programming /Design Paradigms**         |
-|---------------------------------------|:-----------------------------------------------|:---------------------------------------------|
-|Node                                   |JavaScript, CSS, HTML                           | Test-driven / behavior-driven Development    |
-|npm                                    |*View libraries* -- React, Backbone             | Functional programming (where appropriate)   |
-|Python                                 |*Template libraries* -- Handlebars, Jade        | Responsive design                            |
-|                                       |*Utility libraries* -- Lodash, jQuery           | Mobile-first design                          |
-|                                       |*Back-end as a Service* -- Firebase             | Universal / accessible design                  |
-|                                       |*Rapid development* -- Bootstrap                |                                              |
-|                                       |*Visual design* -- Sass, CSS3, CSS Modules      |                                              |
-|                                       |*Build tools* -- Webpack, Gulp, Bash, Make files|                                              |
-
-|  **Testing Paradigms**                       |    **Team / Productivity Tools**               |           **Team paradigms**       |
-|----------------------------------------------|:-----------------------------------------------|:-----------------------------------|
-|*Strict unit testing* -- Mocha, Chai, Jasmine  |*Code review* -- Github, Stash                  | Agile / Scrum                     |
-|*Continuous integration* -- Bamboo             |*Realtime Collaboration* -- Slack, Screenhero   | Open-source                       |
-|*Mocks / stubs* -- Sinon                       |*Task management* -- Trello, Toggl, Jira        | Remote work                       |
-|Regression testing                             |*Version control* -- Git, Github, Stash, Bamboo | Pair / mob programming            |
-
-
 ### *Professional Experience*  
 **Software Engineer** | [**Idealist.org**](https://www.idealist.org)  
 *April 2016 - August 2016*  
@@ -40,7 +19,8 @@ Major retooling of legacy build-process using Webpack.
 
 Wrote and contributed back to open source projects like:  
 
-[**React Styleguide Generator**](https://github.com/pocotan001/react-styleguide-generator), [**Zurb: Responsive Email Template Boilerplate**](https://github.com/joefraley/responsive-email-template-boilerplate)  
+[**React Styleguide Generator**](https://github.com/pocotan001/react-styleguide-generator)  
+[**Zurb: Responsive Email Template Boilerplate**](https://github.com/joefraley/responsive-email-template-boilerplate)  
 
     Technical Environment: JavaScript, React, Python, Node, Git, HTML, Sass, Mocha, Google Analytics  
     Team Environment: Slack, Trello, Stash, Jira, Bamboo  
