@@ -1,4 +1,4 @@
-## Full-Stack Developer & Philosopher  
+## Software Engineer & Philosopher  
 Portfolio: [joefraley.github.io](https://joefraley.github.io)  
 GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)  
 Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
