@@ -7,7 +7,11 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Professional Experience  
 #### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
-Maintained and expanded a fully responsive site optimized for performance, backed by tests and continuous integration. Applied React and Node on a big problem space, in production to a high-traffic web property, using multiple languages. Major reworking of platform as an isomorphic, single-page web application. Major retooling of legacy build-process using Webpack. Wrote and contributed back to open source projects. For example:  
++ Maintained and expanded a fully responsive site optimized for performance, backed by tests and continuous integration.  
++ Applied React and Node on a big problem space, in production to a high-traffic web property, using multiple languages.  
++ Major reworking of platform as an isomorphic, single-page web application.  
++ Major retooling of legacy build-process using Webpack.  
++ Wrote and contributed back to open source projects. For example:  
 
 [React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator)  
 [Zurb: Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate)  
@@ -16,30 +20,40 @@ Maintained and expanded a fully responsive site optimized for performance, backe
     Team Environment: Slack, Trello, Stash, Jira, Bamboo  
 
 #### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)  
-Built and delivered Treehouse courses, including scripts, code challenges, project materials, assessment tools, and curriculum outlines. This required thorough understanding of best-practices, design paradigms, current programming trends, and the ability to communicate them to a wide range of people. Collaborated with designers, other instructors, and product managers to decide learning goals for students. Produced high-quality content in line with Treehouse standard of excellence in education and code.  Current courses include: [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing)  
++ Built and delivered Treehouse courses, including scripts, code challenges, project materials, assessment tools, and curriculum outlines.  
++ This required thorough understanding of best-practices, design paradigms, current programming trends, and the ability to communicate them to a wide range of people.  
++ Collaborated with designers, other instructors, and product managers to decide learning goals for students.  
++ Produced high-quality content in line with Treehouse standard of excellence in education and code.  
++ Current courses include: [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing)  
 
     Technical Environment: JavaScript, Mocha, Chai, Node, npm, Object-Oriented programming, Markdown, Git
 
 #### Lead Developer | [PopSockets](https://www.popsockets.com) (May 2015 - August 2015)  
-Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices. Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. Introduced modern web standards like flexbox layouts.  
++ Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices.  
++ Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. 
++ Introduced modern web standards like flexbox layouts.  
 
     Technical Environment: Shopify eCommerce Platform, Bootstrap JavaScript, jQuery, CSS3
 
 #### Instructor | University of Colorado, Boulder (August 2013 - May 2014)  
-Developed supplementary curriculum for intro philosophy courses of more than 100 students. Provided instruction and test prep for courses in metaphysics, ethics, history of philosophy, philosophy of science fiction, critical thinking, logic, writing, and others.
++ Developed supplementary curriculum for intro philosophy courses of more than 100 students.  
++ Provided instruction and test prep for courses in metaphysics, ethics, history of philosophy, philosophy of science fiction, critical thinking, logic, writing, and others.
 
 ### Projects  
 #### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
-A Skill for Amazon's natural language platform Alexa that reports the ideal counter for any Overwatch character on demand. Written in Node and deployed via AWS Lambda.
++ A Skill for Amazon's natural language platform Alexa that reports the ideal counter for any Overwatch character on demand. Written in Node and deployed via AWS Lambda.
 
 #### [RatticusScript](https://www.ratticusscript.com) (2016)
-An proof-of-concept for completely modern serverless architecture. Static-site-generator and CMS. React and mobx are simply an implementation detail. A fully responsive static site that can be updated and deployed using one command. Implements IndieAuth and web mentions. Syndicates content from the CMS to Twitter, Medium, and other social media feeds. Leverages AWS cloud systems like Lambda for API calls without a back-end.
++ An proof-of-concept for completely modern serverless architecture. Static-site-generator and CMS. React and mobx are simply an implementation detail.  
++ A fully responsive static site that can be updated and deployed using one command.  
++ Implements IndieAuth and web mentions. Syndicates content from the CMS to Twitter, Medium, and other social media feeds.  
++ Leverages AWS cloud systems like Lambda for API calls without a back-end.
 
 #### [ThingsSDK](https://github.com/thingsSDK/thingssdk-cli) (2016)
-An open source suite of tools for writing and running JavaScript directly on micro-controllers. This enables developers to use modern tools like ES2015, JS modules, and the npm ecosystem to write Internet of Things stuff. Core contributor to the CLI and other tools.
++ An open source suite of tools for writing and running JavaScript directly on micro-controllers. This enables developers to use modern tools like ES2015, JS modules, and the npm ecosystem to write Internet of Things stuff. Core contributor to the CLI and other tools.
 
 #### [Fetch!](http://www.fetch.love) (2015)
-A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Uses the Google Maps API, open-source image manipulation libraries.  
++ A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Uses the Google Maps API, open-source image manipulation libraries.  
 
 ### Volunteer Experience  
 #### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - Present)  
