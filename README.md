@@ -7,17 +7,15 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Professional Experience  
 #### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
-+ Maintained and expanded a fully responsive site optimized for performance, backed by tests and continuous integration.  
-+ Applied React and Node on a big problem space, in production to a high-traffic web property, using multiple languages.  
-+ Major reworking of platform as an isomorphic, single-page web application.  
-+ Major retooling of legacy build-process using Webpack.  
-+ Wrote and contributed back to open source projects. For example:  
-
-[React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator)  
-[Zurb: Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate)  
-
-    Technical Environment: JavaScript, React, Python, Node, Git, HTML, Sass, Mocha, GoogleAnalytics  
-    Team Environment: Slack, Trello, Stash, Jira, Bamboo  
++ Rebuilt platform into an isomorphic, single-page web application using `React` and `Node` from a `Python` backend and a `Backbone`, `Vanilla JS`, `jQuery` view layer.  
++ Improved page load times by 5 seconds through major retooling of legacy build-process. From custom `Makefile`s, `bash` scripts and `Browserify` to `Webpack`.  
++ Fixed bugs and built pages and features for a fully responsive site optimized for performance.  
++ Collaborated in small teams and across teams using Agile methods and Kanban workflow.  
++ Extensive pair-programming and code review.  
++ Practiced TDD using test libraries like `Mocha` and `Jest`.  
++ Practiced `continuous integration` using tools in the Atlassian suite like Bamboo.  
++ **OPEN SOURCE** Fixed routing bugs in [React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator)  
++ **OPEN SOURCE** Published [Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate)  
 
 #### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)  
 + Built and delivered Treehouse courses, including scripts, code challenges, project materials, assessment tools, and curriculum outlines.  
