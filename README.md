@@ -7,7 +7,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Professional Experience  
 #### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
-+ Rebuilt platform into an isomorphic, single-page web application using `React` and `Node` from a `Python` backend and a `Backbone`, `Vanilla JS`, `jQuery` view layer.  
++ Rebuilt platform into an isomorphic, single-page web application using `React` and `Node`. It started as a `Python` backend and a `Backbone`, `Vanilla JS`, `jQuery` view layer.  
 + Improved page load times by 5 seconds through major retooling of legacy build-process. From custom `Makefile`s, `bash` scripts and `Browserify` to `Webpack`.  
 + Fixed bugs and built pages and features for a fully responsive site optimized for performance.  
 + Collaborated in small teams and across teams using Agile methods and Kanban workflow.  
