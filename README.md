@@ -14,8 +14,8 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 + Extensive pair-programming and code review.  
 + Practiced TDD using test libraries like `Mocha` and `Jest`.  
 + Practiced `continuous integration` using tools in the Atlassian suite like Bamboo.  
-+ **OPEN SOURCE** Fixed routing bugs in [React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator)  
-+ **OPEN SOURCE** Published [Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate)  
++ **OPEN SOURCE** Fixed routing bugs in [React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator).  
++ **OPEN SOURCE** Published [Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate).  
 
 #### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)  
 + Built and deployed Treehouse courses including code challenges and project materials, unit tests, scripts, assessment tools, and curriculum outlines.  
