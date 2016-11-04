@@ -7,7 +7,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Professional Experience  
 #### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
-+ Rebuilt platform into an isomorphic, single-page web application using `React` and `Node`. It started as a `Python` backend and a `Backbone`, `Vanilla JS`, `jQuery` view layer.  
++ Rebuilt platform into an isomorphic, single-page web application using `React` and `Node`. It started as a `Python` backend and a `Backbone`, `vanilla JS`, `jQuery` view layer.  
 + Improved page load times by 5 seconds through major retooling of legacy build-process. From custom `Makefile`s, `bash` scripts and `Browserify` to `Webpack`.  
 + Fixed bugs and built pages and features for a fully responsive site optimized for performance.  
 + Collaborated in small teams and across teams using Agile methods and Kanban workflow.  
@@ -18,13 +18,9 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 + **OPEN SOURCE** Published [Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate)  
 
 #### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)  
-+ Built and delivered Treehouse courses, including scripts, code challenges, project materials, assessment tools, and curriculum outlines.  
-+ This required thorough understanding of best-practices, design paradigms, current programming trends, and the ability to communicate them to a wide range of people.  
++ Built and deployed Treehouse courses including code challenges and project materials, unit tests, scripts, assessment tools, and curriculum outlines.  
 + Collaborated with designers, other instructors, and product managers to decide learning goals for students.  
-+ Produced high-quality content in line with Treehouse standard of excellence in education and code.  
-+ Current courses include: [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing)  
-
-    Technical Environment: JavaScript, Mocha, Chai, Node, npm, Object-Oriented programming, Markdown, Git
++ Current courses include [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing) - practicing TDD using Mocha and Chai by writing a game engine written in Node.
 
 #### Lead Developer | [PopSockets](https://www.popsockets.com) (May 2015 - August 2015)  
 + Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices.  
