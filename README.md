@@ -20,7 +20,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 #### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)  
 + Built and deployed Treehouse courses including code challenges and project materials, unit tests, scripts, assessment tools, and curriculum outlines.  
 + Collaborated with designers, other instructors, and product managers to decide learning goals for students.  
-+ Current courses include [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing) - practicing TDD using Mocha and Chai by writing a game engine written in Node.
++ Current courses include [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing) - practicing TDD using `Mocha` and `Chai` by writing a game engine written in `Node`.
 
 #### Lead Developer | [PopSockets](https://www.popsockets.com) (May 2015 - August 2015)  
 + Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices.  
