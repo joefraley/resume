@@ -33,7 +33,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Projects  
 #### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
-+ A Skill for Amazon's natural language platform `Alexa` that reports the ideal counter for any Overwatch character on demand.  
++ A Skill for Amazon's natural language platform `Alexa` that reports the ideal counter for any [Overwatch](https://playoverwatch.com/en-us/) character on demand.  
 + Written in Node and deployed via `AWS Lambda`.
 
 #### [RatticusScript](https://www.ratticusscript.com) (2016)
