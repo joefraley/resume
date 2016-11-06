@@ -25,7 +25,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 #### Lead Developer | [PopSockets](https://www.popsockets.com) (May 2015 - August 2015)  
 + Developed a Shopify storefront for PopSockets - a shop selling grips and accessories for mobile devices.  
 + Built templates & responsive client-side tools for customizing products. 
-+ Improved interactions using CSS3 features like flexbox layouts and CSS animations.  
++ Improved interactions using `CSS3` features like `flexbox layouts` and `CSS animations`.  
 
 #### Instructor | University of Colorado, Boulder (August 2013 - May 2014)  
 + Developed supplementary curriculum for intro philosophy courses of more than 100 students.  
@@ -33,25 +33,25 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Projects  
 #### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
-+ A Skill for Amazon's natural language platform Alexa that reports the ideal counter for any Overwatch character on demand.  
-+ Written in Node and deployed via AWS Lambda.
++ A Skill for Amazon's natural language platform `Alexa` that reports the ideal counter for any Overwatch character on demand.  
++ Written in Node and deployed via `AWS Lambda`.
 
 #### [RatticusScript](https://www.ratticusscript.com) (2016)
-+ An proof-of-concept for completely modern serverless architecture. Written in React and Node.  
++ An proof-of-concept for completely modern serverless architecture. Written in `React` and `Node`.  
 + A fully responsive static site that can be updated and deployed using one command.  
 + Implements IndieAuth and web mentions. Syndicates content from the CMS to Twitter, Medium, and other social media feeds.  
-+ Leverages AWS cloud systems like Lambda for API calls without a back-end.
++ Leverages `AWS` cloud systems like `Lambda` for API calls without a back-end.
 
 #### [ThingsSDK](https://github.com/thingsSDK/thingssdk-cli) (2016)
-+ Core contributor to open source suite of tools for writing and running JavaScript directly on micro-controllers.  
-+ Added testing and CI to the project using Mocha and Travis.  
++ Core contributor to open source suite of tools for writing and running `JavaScript` directly on micro-controllers.  
++ Added testing and CI to the project using `Mocha` and `Travis CI`.  
 + Improved command line experience by adding fail-safes, colorized output, and other additions.  
 + Core contributer to [documentation and guides](https://guides.thingssdk.com/).  
 
 #### [Fetch!](http://www.fetch.love) (2015)
 + A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings.  
-+ Written in Node and Backbone.  
-+ Extensively uses the Google Maps API.  
++ Written in `Node` and `Backbone`.  
++ Extensively uses the `Google Maps API`.  
 
 ### Volunteer Experience  
 #### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - Present)  
