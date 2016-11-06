@@ -23,11 +23,9 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 + Current courses include [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing) - practicing TDD using `Mocha` and `Chai` by writing a game engine written in `Node`.
 
 #### Lead Developer | [PopSockets](https://www.popsockets.com) (May 2015 - August 2015)  
-+ Developed Shopify storefront for PopSockets, who make clever grips and accessories for mobile devices.  
-+ Built templates & responsive client-side tools, & integrated designs from other PopSockets web presence. 
-+ Introduced modern web standards like flexbox layouts.  
-
-    Technical Environment: Shopify eCommerce Platform, Bootstrap JavaScript, jQuery, CSS3
++ Developed a Shopify storefront for PopSockets - a shop selling grips and accessories for mobile devices.  
++ Built templates & responsive client-side tools for customizing products. 
++ Improved interactions using CSS3 features like flexbox layouts and CSS animations.  
 
 #### Instructor | University of Colorado, Boulder (August 2013 - May 2014)  
 + Developed supplementary curriculum for intro philosophy courses of more than 100 students.  
@@ -35,35 +33,35 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
 ### Projects  
 #### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
-+ A Skill for Amazon's natural language platform Alexa that reports the ideal counter for any Overwatch character on demand. Written in Node and deployed via AWS Lambda.
++ A Skill for Amazon's natural language platform Alexa that reports the ideal counter for any Overwatch character on demand.  
++ Written in Node and deployed via AWS Lambda.
 
 #### [RatticusScript](https://www.ratticusscript.com) (2016)
-+ An proof-of-concept for completely modern serverless architecture. Static-site-generator and CMS. React and mobx are simply an implementation detail.  
++ An proof-of-concept for completely modern serverless architecture. Written in React and Node.  
 + A fully responsive static site that can be updated and deployed using one command.  
 + Implements IndieAuth and web mentions. Syndicates content from the CMS to Twitter, Medium, and other social media feeds.  
 + Leverages AWS cloud systems like Lambda for API calls without a back-end.
 
 #### [ThingsSDK](https://github.com/thingsSDK/thingssdk-cli) (2016)
-+ An open source suite of tools for writing and running JavaScript directly on micro-controllers. This enables developers to use modern tools like ES2015, JS modules, and the npm ecosystem to write Internet of Things stuff. Core contributor to the CLI and other tools.
++ Core contributor to open source suite of tools for writing and running JavaScript directly on micro-controllers.  
++ Added testing and CI to the project using Mocha and Travis.  
++ Improved command line experience by adding fail-safes, colorized output, and other additions.  
++ Core contributer to [documentation and guides](https://guides.thingssdk.com/).  
 
 #### [Fetch!](http://www.fetch.love) (2015)
-+ A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings. Built in a Node / Backbone / Orchestrate stack. Uses the Google Maps API, open-source image manipulation libraries.  
++ A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings.  
++ Written in Node and Backbone.  
++ Extensively uses the Google Maps API.  
 
 ### Volunteer Experience  
 #### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - Present)  
 General web design and optimization of their high-traffic Wordpress site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
 
-    Technical Environment: JavaScript, Git, CSS3 / HTML5, Wordpress, PHP
-
 #### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - Present)  
 General web design and development. Built mobile-frist / responsive pages, integrated with remote payment service.   For example: the [XRAY membership page](http://xray.fm/membership)  
 
-    Technical Environment: CSS3 / HTML5, Custom CMS
-
 #### Front-end Developer & Architect | [Animal Charity Evaluators](https://www.animalcharityevaluators.org/) (December 2015 - August 2016)  
 Wrote automation scripts using the Google App platform to expedite article clean up / publishing on their Wordpress site. Implemented a distributed workflow for software volunteers using Git, Github, and the Wordpress plugin ecosystem. General JavaScript & architecture consultation.  
-
-    Technical Environment: JavaScript, Google Apps, Git, CSS3 / HTML5, Wordpress
 
 #### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - Present)  
 
