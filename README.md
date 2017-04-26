@@ -12,7 +12,7 @@ Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 + Separated all view logic from the API backend.  This saved server rendering costs, reduced end-user time to interaction, and made continuous integration/delivery of the front-end possible.  
 + Expanded and maintained micro-services on Google App Engine. For example, a Python REST API, Node location/routing service, front-end server, and more.  
 + Implemented token-based authentication for secure API access.  
-+ Incrementally migrated a legacy Django monolith to a seperate React/Redux front-end with a GraphQL interface.  
++ Incrementally migrated a legacy Django monolith to a separate React/Redux front-end with a GraphQL interface.  
 
 #### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
 + Rebuilt platform into an isomorphic, single-page web application using `React` and `Node`. It started as a `Python` backend and a `Backbone`, `vanilla JS`, `jQuery` view layer.  
