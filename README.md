@@ -1,5 +1,4 @@
 ## Software Engineer & Philosopher  
-Portfolio: [joefraley.github.io](https://joefraley.github.io)  
 GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)  
 Email: [jose.fraley@gmail.com](mailto:jose.fraley@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)  
@@ -86,6 +85,12 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vi
 #### Full-Stack JavaScript | Portland Code School (2015)    
 
 ### Presentations  
+#### Migrating to GraphQL in Production | [GraphQL PDX](https://docs.google.com/presentation/d/1V0gcs6em-ePvD5pVgDzp6AMQXgvoFn0GxNebUBsjl80/edit?usp=sharing) (April 2017)  
+Why its worth migrating from REST API's to GraphQL in production, and why the transition is inevitable anyway.
+
+#### Modular GraphQL Projects | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/236262579/) (February 2017)  
+How to keep development small and modular using schema-driven development with GraphQL.
+
 #### Prototyping with React and Firebase | [Portland ReactJS](http://www.meetup.com/Portland-ReactJS/events/233069449/) (August 2016)  
 Prototyping with React can be daunting when it comes with setting up Redux flows and editing Webpack config files.  
 With the new Firebase API, you can skip all of that for dependable, scalable prototypes that are easy to use and understand.
