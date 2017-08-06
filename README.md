@@ -96,7 +96,7 @@ Wrote automation scripts using the `Google App platform` to expedite article cle
 ### MA, Philosophy | University of Colorado, Boulder (2012-2014)
 
 Emphasis in metaphysics, philosophy of language, & ethics.
-Thesis: *Vagueness & Fundamentality*, 2014
+Thesis: [*Vagueness & Fundamentality*](http://scholar.colorado.edu/cgi/viewcontent.cgi?article=1041&context=phil_gradetds), 2014
 
 ### BA, Philosophy | Western Washington University (2009-2011)
 
