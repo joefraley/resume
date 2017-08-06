@@ -12,9 +12,9 @@
 - Worked primarily on front-end single-page app for bluetooth beacons management and a CMS for native mobile location apps.
 - Implemented feature-flags and account expiration enforcement that captured at least $800,000 in outstanding payments.
 - Separated all view logic from the API backend.  This saved server rendering costs, reduced end-user time to interaction, and made continuous integration/delivery of the front-end possible.
-- Expanded and maintained micro-services on `Google App Engine`. For example, a Python REST API, Node location/routing service, front-end server, and more.
+- Expanded and maintained micro-services on `Google App Engine`. For example, a `Python` REST API, `Node` location/routing service, front-end server, and more.
 - Implemented token-based authentication for secure API access.
-- Incrementally migrated a legacy Django monolith to a separate React/Redux front-end with a GraphQL interface.
+- Incrementally migrated a legacy `Django` monolith to a separate React/Redux front-end with a GraphQL interface.
 
 ### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
 
@@ -74,7 +74,7 @@
 
 ## Volunteer Experience
 
-### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - Present)
+### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - June 2017)
 
 General web design and optimization of their high-traffic `Wordpress` site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
 
@@ -87,7 +87,7 @@ For example: the [XRAY membership page](http://xray.fm/membership)
 
 Wrote automation scripts using the `Google App platform` to expedite article clean up / publishing on their Wordpress site. Implemented a distributed workflow for software volunteers using `Git`, Github, and the Wordpress plugin ecosystem. General `JavaScript` & architecture consultation.
 
-### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - Present)
+### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - Jun 2017)
 
 ### Volunteer Organizer | [Mozilla ViewSource Conference](https://viewsourceconf.org/) (November 2015)
 
