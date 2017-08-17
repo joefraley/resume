@@ -68,8 +68,6 @@ For example: the [XRAY membership page](http://xray.fm/membership)
 
 General web design and optimization of their high-traffic `Wordpress` site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
 
-### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - June 2017)
-
 ## Education
 
 ### MA, Philosophy | University of Colorado, Boulder (2012-2014)
@@ -105,3 +103,5 @@ An introduction to some fun `Elm` tools and open source `Elm` projects seeking p
 ### What is Elm? | [JavaScript Admirers](https://www.meetup.com/Portland-JavaScript-Admirers/photos/26839880/) (March 2016)
 
 An introduction to the `Elm` programming language in the context of modern JavaScript development.
+
+### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - June 2017)
