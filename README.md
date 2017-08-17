@@ -83,11 +83,11 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vi
 
 ## Presentations
 
-### Migrating to GraphQL in Production | [GraphQL PDX](https://docs.google.com/presentation/d/1V0gcs6em-ePvD5pVgDzp6AMQXgvoFn0GxNebUBsjl80/edit?usp=sharing) (April 2017)
+### [Migrating to GraphQL in Production](https://docs.google.com/presentation/d/1YlvHwTvVzqm-wCeAR65bUZBadWtyZjLUAr2owClNpHU/edit#slide=id.g1dc244c6cc_0_237) | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/) (April 2017)
 
 Why its worth migrating from REST API's to `GraphQL` in production, and why the transition is inevitable anyway.
 
-### Modular GraphQL Projects | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/236262579/) (February 2017)
+### [Modular GraphQL Projects](https://docs.google.com/presentation/d/1V0gcs6em-ePvD5pVgDzp6AMQXgvoFn0GxNebUBsjl80/edit?usp=sharing) | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/236262579/) (February 2017)
 
 How to keep development small and modular using schema-driven development with `GraphQL`.
 
