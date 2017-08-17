@@ -25,8 +25,6 @@
 - Extensive pair-programming and code review.
 - Practiced TDD using test libraries like `Mocha` and `Jest`.
 - Practiced `continuous integration` using tools in the Atlassian suite like Bamboo.
-- **[Open Source]** Fixed routing bugs in [React Styleguide Generator](https://github.com/pocotan001/react-styleguide-generator).
-- **[Open Source]** Published [Responsive Email Template Boilerplate](https://github.com/joefraley/responsive-email-template-boilerplate).
 
 ### JavaScript Developer | [Team Treehouse](https://www.teamtreehouse.com/) (November 2015 - April 2016)
 
@@ -45,19 +43,7 @@
 - Developed supplementary curriculum for intro philosophy courses of more than 100 students.
 - Provided instruction and test prep for courses in metaphysics, ethics, history of philosophy, philosophy of science fiction, critical thinking, logic, writing, and others.
 
-## Projects
-
-### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
-
-- A Skill for Amazon's natural language platform `Alexa` that reports the ideal counter for any [Overwatch](https://playoverwatch.com/en-us/) character on demand.
-- Written in `Node` and deployed via `AWS Lambda`.
-
-### [RatticusScript](https://www.ratticusscript.com) (2016)
-
-- An proof-of-concept for completely modern serverless architecture. Written in `React` and `Node`.
-- A fully responsive static site that can be updated and deployed using one command.
-- Implements IndieAuth and web mentions. Syndicates content from the CMS to Twitter, Medium, and other social media feeds.
-- Leverages `AWS` cloud systems like `Lambda` for API calls without a back-end.
+## Personal Projects and Open Source Work
 
 ### [ThingsSDK](https://github.com/thingsSDK/thingssdk-cli) (2016)
 
@@ -66,13 +52,12 @@
 - Improved command line experience by adding fail-safes, colorized output, and other additions.
 - Core contributer to [documentation and guides](https://guides.thingssdk.com/).
 
-### [Fetch!](http://www.fetch.love) (2015)
+### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
 
-- A single-page web application for tracking your lost pets, by crowd-sourcing community animal sightings.
-- Written in `Node` and `Backbone`.
-- Extensively uses the `Google Maps API`.
+- A Skill for Amazon's natural language platform `Alexa` that reports the ideal counter for any [Overwatch](https://playoverwatch.com/en-us/) character on demand.
+- Written in `Node` and deployed via `AWS Lambda`.
 
-## Volunteer Experience
+## Recent Volunteer Experience
 
 ### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - Present)
 
@@ -83,13 +68,7 @@ For example: the [XRAY membership page](http://xray.fm/membership)
 
 General web design and optimization of their high-traffic `Wordpress` site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
 
-### Front-end Developer & Architect | [Animal Charity Evaluators](https://www.animalcharityevaluators.org/) (December 2015 - August 2016)
-
-Wrote automation scripts using the `Google App platform` to expedite article clean up / publishing on their Wordpress site. Implemented a distributed workflow for software volunteers using `Git`, Github, and the Wordpress plugin ecosystem. General `JavaScript` & architecture consultation.
-
-### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - Jun 2017)
-
-### Volunteer Organizer | [Mozilla ViewSource Conference](https://viewsourceconf.org/) (November 2015)
+### Portland Elm Meetup Group Founder | [Portland Elm Group](https://www.meetup.com/portlandelm/) (March 2016 - June 2017)
 
 ## Education
 
