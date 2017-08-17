@@ -12,9 +12,9 @@
 - Worked primarily on front-end single-page app for bluetooth beacons management and a CMS for native mobile location apps.
 - Implemented feature-flags and account expiration enforcement that captured at least $800,000 in outstanding payments.
 - Separated all view logic from the API backend.  This saved server rendering costs, reduced end-user time to interaction, and made continuous integration/delivery of the front-end possible.
-- Expanded and maintained micro-services on `Google App Engine`. For example, a `Python` REST API, `Node` location/routing service, front-end server, and more.
+- Expanded and maintained micro-services on `Google App Engine`. For example, a `Python` `REST` API, `Node` location/routing service, front-end server, and more.
 - Implemented token-based authentication for secure API access.
-- Incrementally migrated a legacy `Django` monolith to a separate React/Redux front-end with a GraphQL interface.
+- Incrementally migrated a legacy `Django` monolith to a separate `React`/`Redux` front-end with a `GraphQL` interface.
 
 ### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
 
@@ -74,14 +74,14 @@
 
 ## Volunteer Experience
 
-### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - June 2017)
-
-General web design and optimization of their high-traffic `Wordpress` site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
-
 ### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - Present)
 
 General web design and development. Built mobile-frist / responsive pages, integrated with remote payment service.
 For example: the [XRAY membership page](http://xray.fm/membership)
+
+### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - June 2017)
+
+General web design and optimization of their high-traffic `Wordpress` site. Manage a distributed team of volunteers using tools like Github, Slack, and Trello. Includes extensive work on their data visualization and charting tool [Animal Tracker](https://faunalytics.org/animaltracker/).
 
 ### Front-end Developer & Architect | [Animal Charity Evaluators](https://www.animalcharityevaluators.org/) (December 2015 - August 2016)
 
