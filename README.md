@@ -7,7 +7,7 @@
 
 ## Professional Experience
 
-### Senior Software Engineer |  [Nike](http://nike.com/) (January 2016 - Present)
+### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - Present)
 - Infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first, and deployed to AWS.
 - Implemented A/B testing of machine learning models served to end-users using Optimizely.
 - Implemented service contracts that enabled integration of the recommendation services with nike.com, peaking at 6,000 request per second.
