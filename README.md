@@ -1,7 +1,7 @@
 # Joseph Fraley: Software Engineer & Philosopher
 
 - GitHub: [https://www.github.com/joefraley](https://github.com/joefraley)
-- Email: [joefraley@protonmail.com](mailto:joefraley@protonmail.com)
+- Email: [misterfraley@gmail.com](mailto:misterfraley@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/joefraley](https://www.linkedin.com/in/joefraley)
 - Phone: [+1-(503)-367-1627](tel:+1-503-367-1627)
 
