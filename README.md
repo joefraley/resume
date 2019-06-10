@@ -8,9 +8,10 @@
 ## Professional Experience
 
 ### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - Present)
-- Backend infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first, and deployed to AWS.
+- Backend infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first, and deployed to Kubernetes on AWS.
 - Implemented A/B testing of machine learning models served to end-users using Optimizely.
 - Implemented service contracts that enabled integration of the recommendation services with nike.com, peaking at 6,000 request per second.
+- Drove product level discussions about our ethical obligations to consumers in machine learning systems.
 
 ### Software Engineer |  [Aruba Meridian](http://meridianapps.com/) (October 2016 - December 2017)
 
