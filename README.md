@@ -7,7 +7,23 @@
 
 ## Professional Experience
 
-### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - Present)
+### Highlights
+- Contributed to arhitecture and construction of a many-model machine learning development platform at Nike. I know of nothing like this in existence yet.
+- Massively improved signal-to-nosie ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
+- Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this it was impossible to restrict customer access to products that they had ever accessed before.
+- Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
+- Early adopter of GraphQL and Elm at in the Portland engineering community.
+
+### Senior Software Engineer | [BetterUp](https://www.betterup.co) (January 2018 - Present)
+- Frontend architecture for a legacy Rails/Ember application.
+- Built metrics dashboard feature for displaying complex data over time to users without any data visualization framework.
+- Improved frontend error reporting from total white-noise to purely actionable signals. Hundreds of meaningless on-call reports per day became only several per week.
+- Led work on constructing a frontend component library. Led education and advocacy efforts for modern architectural patterns.
+- Launched critical personalized recommendation features in collaboration with Machine Learning engineers and data scientists.
+- Helped define the engineering culture oof 
+
+### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - December 2018)
+- Implemented architectural platform for testing and deploying multiple versions of machine learning models.
 - Backend infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first, and deployed to Kubernetes on AWS.
 - Implemented A/B testing of machine learning models served to end-users using Optimizely.
 - Implemented service contracts that enabled integration of the recommendation services with nike.com, peaking at 6,000 request per second.
