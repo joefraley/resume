@@ -20,7 +20,7 @@
 - Improved frontend error reporting from total white-noise to purely actionable signals. Hundreds of meaningless on-call reports per day became only several per week.
 - Led work on constructing a frontend component library. Led education and advocacy efforts for modern architectural patterns.
 - Launched critical personalized recommendation features in collaboration with Machine Learning engineers and data scientists.
-- Helped define the engineering culture by driving documentation, defining expecations, and exemplifying collaborative team work.
+- Helped define the engineering culture by driving documentation, defining expectations, and exemplifying collaborative team work.
 
 ### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - December 2018)
 - Implemented architectural platform for testing and deploying multiple versions of machine learning models.
