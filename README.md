@@ -7,12 +7,12 @@
 
 ## Professional Experience
 
-### Highlights
-- Contributed to arhitecture and construction of a many-model machine learning development platform at Nike. I know of nothing like this in existence yet.
-- Massively improved signal-to-nosie ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
-- Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this it was impossible to restrict customer access to products that they had ever accessed before.
+### Technical Career Highlights
+- Contributed to the architecture and construction of a many-model machine learning development platform at Nike. I know of nothing like this in existence yet.
+- Massively improved signal-to-noise ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
+- Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this, it was impossible to restrict customer access to products that they had ever accessed before.
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
-- Early adopter of GraphQL and Elm at in the Portland engineering community.
+- An early adopter of GraphQL and Elm at in the Portland engineering community.
 
 ### Senior Software Engineer | [BetterUp](https://www.betterup.co) (January 2018 - Present)
 - Frontend architecture for a legacy Rails/Ember application.
