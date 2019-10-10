@@ -12,7 +12,7 @@
 - Massively improved signal-to-noise ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
 - Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this, it was impossible to restrict customer access to products that they had ever accessed before.
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
-- An early adopter of GraphQL and Elm at in the Portland engineering community.
+- An early adopter of GraphQL and Elm in the Portland engineering community.
 
 ### Senior Software Engineer | [BetterUp](https://www.betterup.co) (January 2018 - Present)
 - Frontend architecture for a legacy Rails/Ember application.
@@ -31,7 +31,8 @@
 
 ### Software Engineer |  [Aruba Meridian](http://meridianapps.com/) (October 2016 - December 2017)
 
-- A front-end single-page app for bluetooth beacons management and a CMS for native mobile location apps.
+- A front-end single-page app for bluetooth beacons management and a CMS for native 
+location apps.
 - Implemented feature-flags and account expiration enforcement that captured at least $800,000 in outstanding payments.
 - Expanded and maintained micro-services on `Google App Engine`. For example, a `Python` `REST` API, `Node` location/routing service, front-end server, and more.
 - Implemented token-based authentication for secure API access.
@@ -83,7 +84,7 @@
 
 ### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - Present)
 
-General web design and development. Built mobile-frist / responsive pages, integrated with remote payment service.
+General web design and development. Built mobile-first / responsive pages, integrated with remote payment service.
 For example: the [XRAY membership page](http://xray.fm/membership)
 
 ### Full-Stack Developer | [Faunalytics](https://faunalytics.org/) (August 2016 - June 2017)
