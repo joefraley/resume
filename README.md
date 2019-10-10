@@ -8,7 +8,7 @@
 ## Professional Experience
 
 ### Technical Career Highlights
-- Contributed to the architecture and construction of a many-model machine learning development platform at Nike. I know of nothing like this in existence yet.
+- Contributed to the architecture and construction of a many-model machine learning development platform at Nike, one of the first of its kind across the industry.
 - Massively improved signal-to-noise ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
 - Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this, it was impossible to restrict customer access to products that they had ever accessed before.
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
