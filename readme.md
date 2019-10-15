@@ -18,21 +18,20 @@
 - Frontend architecture for a legacy Rails/Ember application.
 - Built metrics dashboard feature for displaying complex data over time to users without any data visualization framework.
 - Improved frontend error reporting from total white-noise to purely actionable signals. Hundreds of meaningless on-call reports per day became only several per week.
-- Led work on constructing a frontend component library. Led education and advocacy efforts for modern architectural patterns.
+- Led work on constructing a front-end component library. Led education and advocacy efforts for modern architectural patterns.
 - Launched critical personalized recommendation features in collaboration with Machine Learning engineers and data scientists.
-- Helped define the engineering culture by driving documentation, defining expectations, and exemplifying collaborative team work.
+- Helped define the engineering culture by driving documentation, defining expectations, and exemplifying collaborative teamwork.
 
 ### Senior Software Engineer |  [Nike](http://nike.com/) (January 2017 - December 2018)
-- Implemented architectural platform for testing and deploying multiple versions of machine learning models.
-- Backend infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first, and deployed to Kubernetes on AWS.
+- Implemented an architectural platform for testing and deploying multiple versions of machine learning models.
+- Backend infrastructure and service architecture for Nike's machine learning and recommendations platform. We use a lot of Scala and Python. Our services are architected to be cloud-first and deployed to Kubernetes on AWS.
 - Implemented A/B testing of machine learning models served to end-users using Optimizely.
-- Implemented service contracts that enabled integration of the recommendation services with nike.com, peaking at 6,000 request per second.
+- Implemented service contracts that enabled integration of the recommendation services with nike.com, peaking at 6,000 requests per second.
 - Drove product level discussions about our ethical obligations to consumers in machine learning systems.
 
 ### Software Engineer |  [Aruba Meridian](http://meridianapps.com/) (October 2016 - December 2017)
 
-- A front-end single-page app for bluetooth beacons management and a CMS for native 
-location apps.
+- A front-end single-page app for Bluetooth beacons management and a CMS for native location apps.
 - Implemented feature-flags and account expiration enforcement that captured at least $800,000 in outstanding payments.
 - Expanded and maintained micro-services on `Google App Engine`. For example, a `Python` `REST` API, `Node` location/routing service, front-end server, and more.
 - Implemented token-based authentication for secure API access.
@@ -41,9 +40,9 @@ location apps.
 
 ### Software Engineer |  [Idealist.org](http://www.idealist.org) (February 2016 - August 2016)
 
-- Rebuilt platform from a a `Python` backend and a `Backbone`, `vanilla JS`, `jQuery` site to a single-page web application using `React` and `Node`, with server-side rendering and other modern features.
+- Rebuilt platform from a `Python` backend and a `Backbone`, `vanilla JS`, `jQuery` site to a single-page web application using `React` and `Node`, with server-side rendering and other modern features.
 - Improved page load times by 5 seconds through major retooling of legacy build-process. From custom `Makefile`s, `bash` scripts and `Browserify` to `Webpack`.
-- Fixed bugs and built new pages and features for a fully responsive, highly  optimized web site.
+- Fixed bugs and built new pages and features for a fully responsive, highly optimized web site.
 - Collaborated in small teams and across teams using Agile methods and Kanban workflow.
 - Extensive pair-programming and code review.
 - Practiced TDD using test libraries like `Mocha` and `Jest`.
@@ -63,17 +62,17 @@ location apps.
 
 ### Instructor | University of Colorado, Boulder (August 2013 - May 2014)
 
-- Developed supplementary curriculum for intro philosophy courses of more than 100 students.
+- Developed a supplementary curriculum for intro philosophy courses of more than 100 students.
 - Provided instruction and test prep for courses in metaphysics, ethics, history of philosophy, philosophy of science fiction, critical thinking, logic, writing, and others.
 
 ## Personal Projects and Open Source Work
 
 ### [ThingsSDK](https://github.com/thingsSDK/thingssdk-cli) (2016)
 
-- Contributor to open source suite of tools for writing and running `JavaScript` directly on micro-controllers.
+- Contributor to open-source suite of tools for writing and running `JavaScript` directly on micro-controllers.
 - Added testing and CI to the project using `Mocha` and `Travis CI`.
-- Improved command line experience by adding fail-safes, colorized output, and other additions.
-- Core contributer to [documentation and guides](https://guides.thingssdk.com/).
+- Improved command-line experience by adding fail-safes, colorized output, and other additions.
+- Core contributor to [documentation and guides](https://guides.thingssdk.com/).
 
 ### [CounterWatch](http://www.alexaskillstore.com/other/watchcounter/39162) (2016)
 
@@ -108,7 +107,7 @@ Paul J. & Rebecca Olscamp Scholarship 2009-2011. Outstanding Graduate, 2011.  Vi
 
 ### [Migrating to GraphQL in Production](https://docs.google.com/presentation/d/1YlvHwTvVzqm-wCeAR65bUZBadWtyZjLUAr2owClNpHU/edit#slide=id.p) | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/) (April 2017)
 
-Why its worth migrating from REST API's to `GraphQL` in production, and why the transition is inevitable anyway.
+Why it's worth migrating from REST API's to `GraphQL` in production, and why the transition is inevitable anyway.
 
 ### [Modular GraphQL Projects](https://docs.google.com/presentation/d/1V0gcs6em-ePvD5pVgDzp6AMQXgvoFn0GxNebUBsjl80/edit?usp=sharing) | [GraphQL PDX](https://www.meetup.com/GraphQLPDX/events/236262579/) (February 2017)
 
