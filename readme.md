@@ -14,7 +14,14 @@
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
 - An early adopter of GraphQL and Elm in the Portland engineering community.
 
-### Senior Software Engineer | [BetterUp](https://www.betterup.co) (January 2018 - Present)
+### Senior Software Engineer | [Cambia Health Solutions](https://www.cambiahealth.com) (November 2019 - May 2020)
+- Implemented complete frontend stack for a new consumer health application using React, Apollo Client, and styled-components.
+- Built a GraphQL server to interface between frontends and disparate REST backends.
+- Implemented log-in portals and services using AWS Cognito to connect products maintained at various companies.
+- Implemented and maintained a wide array of data visualizations using React, primarily analytics data of our products served to HR and finance reps at client companies.
+- Implemented robust CI/CD systems for various frontend applications using computer vision and visual diffing engines.
+
+### Senior Software Engineer | [BetterUp](https://www.betterup.co) (January 2018 - August 2019)
 - Frontend architecture for a legacy Rails/Ember application.
 - Built metrics dashboard feature for displaying complex data over time to users without any data visualization framework.
 - Improved frontend error reporting from total white-noise to purely actionable signals. Hundreds of meaningless on-call reports per day became only several per week.
@@ -81,7 +88,7 @@
 
 ## Recent Volunteer Experience
 
-### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - Present)
+### Front-end Developer | [**XRAY.FM**](https://www.xray.fm) (December 2015 - November 2019)
 
 General web design and development. Built mobile-first / responsive pages, integrated with remote payment service.
 For example: the [XRAY membership page](http://xray.fm/membership)
