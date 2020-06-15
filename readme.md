@@ -12,7 +12,7 @@
 - Massively improved signal-to-noise ratio of frontend error-reports at BetterUp, resulting in huge confidence and productivity gains.
 - Captured millions of dollars in lost revenue by implementing a feature-access system at HP. Before this, it was impossible to restrict customer access to products that they had ever accessed before.
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
-- An early adopter of GraphQL and Elm in the Portland engineering community.
+- An early adopter of GraphQL and Elm in the Portland engineering community. See [Presentations](#Presentations) below.
 
 ### Senior Software Engineer | [Cambia Health Solutions](https://www.cambiahealth.com) (November 2019 - May 2020)
 - Implemented complete frontend stack for a new consumer health application using React, Apollo Client, and styled-components.
