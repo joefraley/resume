@@ -14,7 +14,7 @@
 - Started, constructed, and maintained several frontend component libraries, in different tech stacks and at different organizations. I have strong intuitions about abstraction, costs, and productivity gains.
 - An early adopter of GraphQL and Elm in the Portland engineering community. See [Presentations](#Presentations) below.
 
-### Senior Software Engineer | [Cambia Health Solutions](https://www.cambiahealth.com) (November 2019 - May 2020)
+### Senior Software Engineer | [NWEA](https://www.https://www.nwea.org/) (November 2020 - Present)
 - Built a range of web-based products from conception, through design, architecture, and implementation. Technologies included a handful of AWS services, React, GraphQL, Node, Typescript, and Jenkins, among others.
 
 ### Senior Software Engineer | [Cambia Health Solutions](https://www.cambiahealth.com) (November 2019 - May 2020)
